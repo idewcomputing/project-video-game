@@ -12,7 +12,7 @@
 
 ## REFERENCES
 
-* [Video Game Code Guidebook](https://docs.idew.org/code-video-game/)
+* [VG Code Guidebook](https://docs.idew.org/code-video-game/)
 * [CxD Principles & Practices](https://docs.idew.org/principles-and-practices/)
 * [Research Topics in Computing](https://docs.idew.org/research-topics-in-computing/)
 
