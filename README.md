@@ -6,9 +6,9 @@
 
 ## Copyright and License
 
-Copyright © 2017-2019 Michael Frontz and Jim Lyst, Indiana University School of Informatics and Computing at IUPUI
+Copyright © 2016-2019 Michael Frontz and Jim Lyst, Indiana University School of Informatics and Computing at IUPUI
 
-Part of the [Computing by Design](https://cxd.gitbooks.io/the-cxd-framework/content/) high school curriculum developed for the [Informatics Diversity-Enhanced Workforce \(iDEW\) Program](http://soic.iupui.edu/idew/)
+Part of the [Computing by Design](https://docs.idew.org/the-cxd-framework/) high school curriculum developed for the [Informatics Diversity-Enhanced Workforce \(iDEW\)](http://soic.iupui.edu/idew/) program
 
 ![](.gitbook/assets/cxd-idew-logo.png)
 
