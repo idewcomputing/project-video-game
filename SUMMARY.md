@@ -9,7 +9,7 @@
   * [1.1 Player Motivations](project-instructions/1-discover-and-define-problem/1.1-player-motivations.md)
   * [1.2 Incentives and Flow](project-instructions/1-discover-and-define-problem/1.2-incentives-and-flow.md)
   * [1.3 Game Design Elements](project-instructions/1-discover-and-define-problem/1.3-game-design-elements.md)
-  * [1.4 Game Coding Tutorials](project-instructions/1-discover-and-define-problem/1.4-game-coding-tutorials.md)
+  * [1.4 Game Code Tutorials](project-instructions/1-discover-and-define-problem/1.4-game-code-tutorials.md)
   * [1.5 Target Player Persona](project-instructions/1-discover-and-define-problem/1.5-target-player-persona.md)
   * [1.6 Game Ideas](project-instructions/1-discover-and-define-problem/1.6-game-ideas.md)
   * [1.7 Game Treatments](project-instructions/1-discover-and-define-problem/1.7-game-treatments.md)
