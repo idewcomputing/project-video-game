@@ -15,8 +15,15 @@
   * [2.6 Game Assets](project-instructions/2-design-and-build-solution/2.6-game-assets.md)
   * [2.7 Internal Playtesting](project-instructions/2-design-and-build-solution/2.7-internal-playtesting.md)
   * [2.8 Solution Presentation](project-instructions/2-design-and-build-solution/2.8-solution-presentation.md)
-* [3 Evaluate & Refine Solution](project-instructions/3-evaluate-and-refine-solution.md)
-* [4 Share Project with Public](project-instructions/4-share-project-with-public.md)
+* [3 Evaluate & Refine Solution](project-instructions/3-evaluate-and-refine-solution/README.md)
+  * [3.1 Solution Evaluation](project-instructions/3-evaluate-and-refine-solution/3.1-solution-evaluation.md)
+  * [3.2 Solution Refinements](project-instructions/3-evaluate-and-refine-solution/3.2-solution-refinements.md)
+  * [3.3 Project Poster](project-instructions/3-evaluate-and-refine-solution/3.3-project-poster.md)
+  * [3.4 Evaluation Presentation](project-instructions/3-evaluate-and-refine-solution/3.4-evaluation-presentation.md)
+* [4 Share Project with Public](project-instructions/4-share-project-with-public/README.md)
+  * [4.1 Public Presentation](project-instructions/4-share-project-with-public/4.1-public-presentation.md)
+  * [4.2 Project Reflection](project-instructions/4-share-project-with-public/4.2-project-reflection.md)
+  * [4.3 Evaluation Presentation](project-instructions/4-share-project-with-public/4.3-evaluation-presentation.md)
 
 ## REFERENCES
 
