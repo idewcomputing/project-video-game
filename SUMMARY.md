@@ -31,7 +31,7 @@
 * [4 Share Project with Public](project-instructions/4-share-project-with-public/README.md)
   * [4.1 Public Presentation](project-instructions/4-share-project-with-public/4.1-public-presentation.md)
   * [4.2 Project Reflection](project-instructions/4-share-project-with-public/4.2-project-reflection.md)
-  * [4.3 Evaluation Presentation](project-instructions/4-share-project-with-public/4.3-evaluation-presentation.md)
+  * [4.3 Class Celebration](project-instructions/4-share-project-with-public/4.3-class-celebration.md)
 
 ## REFERENCES
 
