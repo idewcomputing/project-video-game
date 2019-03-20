@@ -15,3 +15,5 @@ This phase of the project will require about 6-7 weeks to complete. Your teacher
 | 2.7 Internal Playtesting | \(15-20 hours\) |  |  |
 | **2.8 Solution Presentation** | 3 hours |  |  |
 
+**NOTE:** Tasks 2.5, 2.6, and 2.7 should be completed in parallel to each other.
+
