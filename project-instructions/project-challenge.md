@@ -7,6 +7,7 @@ Each team must design and build ...
 ## Poster and Presentation
 
 At the end of the semester, all teams will demonstrate and explain their ... at a **public poster presentation**.
+
 {% endtab %}
 
 {% tab title="✓ DELIVERABLES" %}
@@ -15,6 +16,7 @@ Each phase of the project has a set of team deliverables, but they lead to these
 * **(Product)** that ...
 * **Project Poster** that shows how your solution was created and highlights key features
 * **Public Presentation** that demonstrates your solution and explains how it was created
+
 {% endtab %}
 
 {% tab title="★ CRITERIA" %}
