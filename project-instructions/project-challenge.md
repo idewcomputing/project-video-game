@@ -18,21 +18,21 @@ Each phase of the project has a set of team deliverables, but they lead to these
 {% endtab %}
 
 {% tab title="★ CRITERIA" %}
-Each team's ... must meet these design criteria:
+Each team's video game must meet these design criteria:
 
-* **Innovative:** your solution should be unique \(or an improvement over existing solutions\)
-* **Feasible:** your solution should be possible to prototype with the given materials/resources
-* **Useful:** your solution should fulfill a need, solve a problem, or improve an existing situation
-* **Usable:** your solution should be easy to understand and efficient to use
-* **Valuable:** your solution should be desirable and valuable to users/stakeholders
+* **Innovative:** your game is unique \(can be unique remix of existing game concepts\)
+* **Engaging**: your game is fun and motivating to play \(based on targeted gaming motivations\)
+* **Functional**: your game is functional and has no major problems \(e.g., no dead ends that prevent player from progressing, etc.\)
+* **Usable**: your game provides clear feedback and is easy for new player to understand \(i.e., learning the game's controls, objectives, rules, etc.\)
+* **Balanced**: your game mechanics are fine-tuned to produce desired gameplay \(e.g., balancing success vs. failure, risk vs. reward, skill vs. chance, etc.\)
 {% endtab %}
 
 {% tab title="▲ CONSTRAINTS" %}
-Each team's ... is subject to these constraints:
+Each team's video game is subject to these constraints:
 
-* constraint
-* constraint
-* constraint
+* Browser-based game created using Phaser CE
+* 2D game world
+* Single player game \(or multi-player game that uses single computer\)
 {% endtab %}
 
 {% tab title="◼ TEAM ROLES" %}
