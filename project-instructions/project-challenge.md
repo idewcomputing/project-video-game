@@ -20,11 +20,11 @@ Each phase of the project has a set of team deliverables, but they lead to these
 {% tab title="★ CRITERIA" %}
 Each team's video game must meet these design criteria:
 
-* **Innovative:** your game is unique \(can be unique remix of existing game concepts\)
-* **Engaging**: your game is fun and motivating to play \(based on targeted gaming motivations\)
-* **Functional**: your game is functional and has no major problems \(e.g., no dead ends that prevent player from progressing, etc.\)
-* **Usable**: your game provides clear feedback and is easy for new player to understand \(i.e., learning the game's controls, objectives, rules, etc.\)
-* **Balanced**: your game mechanics are fine-tuned to produce desired gameplay \(e.g., balancing success vs. failure, risk vs. reward, skill vs. chance, etc.\)
+* **Innovative:**  Your game should be unique \(can be unique remix of existing game concepts\).
+* **Engaging**:  Your game should be fun and motivating to play \(i.e., match your targeted gaming motivations\).
+* **Functional**:  Your game should be functional and have no major problems \(e.g., no dead ends that prevent player from progressing, etc.\).
+* **Usable**:  Your game should provide clear feedback to players and be easy for a new player to learn \(e.g., learning game's controls, objectives, and rules\)
+* **Balanced**:  Your game mechanics should be fine-tuned to produce desired gameplay \(e.g., balance success vs. failure, risk vs. reward, skill vs. chance, etc.\)
 {% endtab %}
 
 {% tab title="▲ CONSTRAINTS" %}
@@ -32,7 +32,7 @@ Each team's video game is subject to these constraints:
 
 * Browser-based game created using Phaser CE
 * 2D game world
-* Single player game \(or multi-player game that uses single computer\)
+* Single player game \(or multi-player game that uses same computer – e.g., could be turn-based game, or players could use different input keys to play at same time\)
 {% endtab %}
 
 {% tab title="◼ TEAM ROLES" %}
