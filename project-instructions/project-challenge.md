@@ -2,19 +2,23 @@
 
 {% tabs %}
 {% tab title="➤ CHALLENGE" %}
-Each team must design and build ...
+### How do we create video games that people want to play?
 
-## Poster and Presentation
+The class will represent a video game company that is divided into project teams. Each team will design and develop its own video game concept. The teams will help improve each other’s games through feedback and playtesting. At the end of the project, the teams will present their video game demos at a public game convention.
 
-At the end of the semester, all teams will demonstrate and explain their ... at a **public poster presentation**.
+Each team must create a playable demo of a video game that is designed to appeal to players that have certain gaming motivations.
+
+You'll use the [Phaser CE JavaScript game framework](https://photonstorm.github.io/phaser-ce/) to create browser-based, 2D video games. You'll use other online tools to create the game's art and sound \(such as animated character sprites, sound effects, etc.\).
+
+![](../.gitbook/assets/phaser.jpg)
 {% endtab %}
 
 {% tab title="✓ DELIVERABLES" %}
 Each phase of the project has a set of team deliverables, but they lead to these final deliverables from each team:
 
-* **\(Product\)** that ...
-* **Project Poster** that shows how your solution was created and highlights key features
-* **Public Presentation** that demonstrates your solution and explains how it was created
+* **Video Game Demo** that is available online and ready to play
+* **Project Poster** that shows how your game was created and highlights key features of the game
+* **Public Presentation** that explains your game concept and allows people to play your demo game
 {% endtab %}
 
 {% tab title="★ CRITERIA" %}
@@ -36,16 +40,18 @@ Each team's video game is subject to these constraints:
 {% endtab %}
 
 {% tab title="◼ TEAM ROLES" %}
-Each team will have 2-4 members that serve in one or more of these roles:
+Each team will have 2-4 members. Everyone will be a **Game Designer**, contributing to the ideas, decisions, and work related to the design of their team's game.
 
-* **Design Lead:** leads interaction design and evaluation of product
-* **Development Lead:** leads building and programming of product
-* **Business Lead:** leads business analysis and marketing of product
-* **Project Manager:** leads team to ensure project completed successfully
+In addition, each team member will have at least one other specialized role:
 
-**Teams of 2** need to designate one person as the Design Lead and the other person as the Development Lead. The Design Lead will also serve as the Business Lead, while the Development Lead will also serve as the Project Manager.
+* **Programming Lead:** leads programming of game
+* **Art Lead:** leads creation of art and sound for game
+* **Research Lead:** leads the playtesting and evaluation of game
+* **Project Manager:** manages team to ensure project completed successfully
 
-**Teams of 3** need to designate different people as the Design Lead, the Development Lead, and the Business Lead. One person will also need to serve as the Project Manager.
+**Teams of 2** need to designate one person as the Programming Lead and the other person as the Art Lead. The Programming Lead will also serve as the Project Manager, while the Art Lead will also serve as the Research Lead.
+
+**Teams of 3** need to designate different people as the Programming Lead, the Art Lead, and the Research Lead. One person \(probably the Research Lead\) will also need to serve as the Project Manager.
 
 **Teams of 4** need to designate different people for each role.
 

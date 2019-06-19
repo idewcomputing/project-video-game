@@ -3,7 +3,7 @@
 ## Project Introduction
 
 {% hint style="danger" %}
-**UPDATE IN PROGRESS:** This new project guidebook will be a revised version of the [previous project guidebook](https://docs.idew.org/video-game/). Updates to this new guidebook will be occurring during spring 2019. Please check back later.
+**UPDATE IN PROGRESS:** This new project guidebook will be a revised version of the [previous project guidebook](https://docs.idew.org/video-game/). Updates to this new guidebook will be occurring during summer 2019. All of the page links have been created within this new guidebook and should remain the same, even as the content is revised.
 {% endhint %}
 
 {% tabs %}
@@ -32,7 +32,7 @@ This project is intended to be completed throughout a semester-long high school 
 Some of the project assignments include links to Google Drive templates \(document, spreadsheet, slide presentation, drawing, etc.\). All the templates are shared as "**View Only**." Students must create a **copy** of the template in order to modify it. \(Students should **not** request edit access, as the file is a master template for all students.\)
 
 {% hint style="info" %}
-**MAKE A COPY:** To use a template, be sure you're logged in to your Google Account. From the **File** menu of the template, select **Make a copy**. Save the copy to your shared team folder in Google Drive. The copied file can now be modified.
+**MAKE A COPY:**  To use a template, be sure you're logged in to your Google Account. From the template's **File** menu, select **Make a copy**. Save the copy to your shared team folder in Google Drive. You can now modify it.
 {% endhint %}
 {% endtab %}
 
