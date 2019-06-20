@@ -16,7 +16,7 @@ text
 {% tab title="➤ PROCESS" %}
 In this project, students will collaborate in small teams to design, develop, and evaluate their own technology solutions to an authentic challenge. Teams will follow a user-centered design approach which focuses on understanding the goals, needs, expectations, and experiences of the people that will use their technology solution. Evaluation and testing of ideas and prototypes is integrated throughout the design and development process.
 
-This project is designed to follow the research-based “Gold Standard” model of Project Based Learning \(PBL\) developed by the [Buck Institute of Education](http://www.bie.org/about/what_pbl).
+This project is designed to follow the research-based [“Gold Standard” model of Project Based Learning \(PBL\)](https://www.pblworks.org/what-is-pbl) developed by the Buck Institute of Education.
 
 This project is intended to be completed throughout a semester-long high school CS course. Here are the estimated times required to complete each project phase:
 
