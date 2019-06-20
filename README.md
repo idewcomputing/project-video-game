@@ -23,6 +23,8 @@ Then in the early 1970s, the development of microprocessor chips allowed compute
 Soon after, the first personal computers \(such as the [Apple II](https://en.wikipedia.org/wiki/Apple_II), etc.\) and gaming consoles \(such as the [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600), etc.\) became available to consumers, finally bringing video games into people's homes — and starting an obsession that continues today.
 
 Today, many people play video games — whether they play casual games or consider themselves serious gamers. What is it about these games that people like? What makes certain games appeal to some people but not others? Could you create a video game that people would want to play?
+
+![](.gitbook/assets/game-heart.png)
 {% endtab %}
 
 {% tab title="➤ PROCESS" %}
