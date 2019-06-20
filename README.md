@@ -8,9 +8,21 @@
 
 {% tabs %}
 {% tab title="◼ INTRODUCTION" %}
-## Title
+## Game On
 
-text
+[People have been creating and playing games on computers, ever since the earliest computers were built in the 1940s](https://en.wikipedia.org/wiki/History_of_video_games). However, early computers did not have video monitors, so the earliest computer games weren't technically video games.
+
+In 1958, one of the first video games — called "Tennis for Two" — was created using an oscilloscope \(a device normally used to view electrical signals\). Special paddle inputs were built to play the game.
+
+**VIDEO:** [Tennis for Two - one of the original video games](https://www.youtube.com/watch?v=6PG2mdU_i8k)
+
+Up until the 1970s, computers were expensive, large-scale machines used primarily by governments, universities, and corporations — so very few people were actually able to play these early computer games.
+
+Then in the early 1970s, the development of microprocessor chips allowed computers to become much smaller, less expensive, and easier to manufacture. As a result, coin-operated video arcade games \(such as [Pong](https://en.wikipedia.org/wiki/Pong), etc.\) were introduced into amusement arcades, restaurants, and other public places — quickly becoming a popular form of entertainment.
+
+Soon after, the first personal computers \(such as the [Apple II](https://en.wikipedia.org/wiki/Apple_II), etc.\) and gaming consoles \(such as the [Atari 2600](https://en.wikipedia.org/wiki/Atari_2600), etc.\) became available to consumers, finally bringing video games into people's homes — and starting an obsession that continues today.
+
+Today, many people play video games — whether they play casual games or consider themselves serious gamers. What is it about these games that people like? What makes certain games appeal to some people but not others? Could you create a video game that people would want to play?
 {% endtab %}
 
 {% tab title="➤ PROCESS" %}
