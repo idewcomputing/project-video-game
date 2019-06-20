@@ -6,7 +6,7 @@
 
 The class will represent a video game company that is divided into project teams. Each team will design and develop its own video game concept. The teams will help improve each other’s games through feedback and playtesting. At the end of the project, the teams will present their video game demos at a public game convention.
 
-Each team must create a playable demo of a video game that is designed to appeal to players that have certain gaming motivations.
+Each team must create a playable demo of a video game that is designed to appeal to players with certain gaming motivations.
 
 You'll use the [Phaser CE JavaScript game framework](https://photonstorm.github.io/phaser-ce/) to create browser-based, 2D video games. You'll use other online tools to create the game's art and sound \(such as animated character sprites, sound effects, etc.\).
 
@@ -14,7 +14,7 @@ You'll use the [Phaser CE JavaScript game framework](https://photonstorm.github.
 {% endtab %}
 
 {% tab title="✓ DELIVERABLES" %}
-Each phase of the project has a set of team deliverables, but they lead to these final deliverables from each team:
+Each phase of the project has a set of team deliverables, but they ultimately lead to these final deliverables from each team:
 
 * **Video Game Demo** that is available online and ready to play
 * **Project Poster** that shows how your game was created and highlights key features of the game
@@ -26,9 +26,9 @@ Each team's video game must meet these design criteria:
 
 * **Innovative:**  Your game should be unique \(can be unique remix of existing game concepts\).
 * **Engaging**:  Your game should be fun and motivating to play \(i.e., match your targeted gaming motivations\).
-* **Functional**:  Your game should be functional and have no major problems \(e.g., no dead ends that prevent player from progressing, etc.\).
-* **Usable**:  Your game should provide clear feedback to players and be easy for a new player to learn \(e.g., learning game's controls, objectives, and rules\)
-* **Balanced**:  Your game mechanics should be fine-tuned to produce desired gameplay \(e.g., balance success vs. failure, risk vs. reward, skill vs. chance, etc.\)
+* **Functional**:  Your game's core features should be functional and have no major problems \(e.g., no dead ends that prevent player from progressing, etc.\). Because your game is a demo, some of your envisioned game features might be limited or missing. However, your core game features should be functional.
+* **Usable**:  Your game should provide clear feedback to players and be easy for a new player to learn \(e.g., learning the game's controls, objectives, and rules\)
+* **Balanced**:  Your game mechanics should be fine-tuned to produce your desired gameplay \(e.g., balance success vs. failure, risk vs. reward, skill vs. chance, etc.\)
 {% endtab %}
 
 {% tab title="▲ CONSTRAINTS" %}
@@ -36,7 +36,7 @@ Each team's video game is subject to these constraints:
 
 * Browser-based game created using Phaser CE
 * 2D game world
-* Single player game \(or multi-player game that uses same computer – e.g., could be turn-based game, or players could use different input keys to play at same time\)
+* Single player game \(or multi-player game that uses same computer – e.g., could be turn-based game, or players could use different keys to play at same time\)
 {% endtab %}
 
 {% tab title="◼ TEAM ROLES" %}
