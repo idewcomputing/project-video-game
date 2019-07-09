@@ -18,7 +18,7 @@
   * [2.1 Project Schedule](project-instructions/2-design-and-build-solution/2.1-project-schedule.md)
   * [2.2 Game Design Document](project-instructions/2-design-and-build-solution/2.2-game-design-document.md)
   * [2.3 Paper Prototype](project-instructions/2-design-and-build-solution/2.3-paper-prototype.md)
-  * [2.4 Playtest Prototype](project-instructions/2-design-and-build-solution/2.4-playtest-prototype.md)
+  * [2.4 Playtest Paper Prototype](project-instructions/2-design-and-build-solution/2.4-playtest-paper-prototype.md)
   * [2.5 Program Game](project-instructions/2-design-and-build-solution/2.5-program-game.md)
   * [2.6 Game Assets](project-instructions/2-design-and-build-solution/2.6-game-assets.md)
   * [2.7 Internal Playtesting](project-instructions/2-design-and-build-solution/2.7-internal-playtesting.md)
