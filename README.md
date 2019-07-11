@@ -3,7 +3,7 @@
 ## Project Introduction
 
 {% hint style="danger" %}
-**UPDATE IN PROGRESS:** This new project guidebook will be a revised version of the [previous project guidebook](https://docs.idew.org/video-game/). Updates to this new guidebook will be occurring during summer 2019. All the page links \(assignments, etc.\) within this new guidebook should remain the same as the revised content is added.
+**UPDATE IN PROGRESS:** This new project guidebook will be a revised version of the [previous project guidebook](https://docs.idew.org/video-game/). Updates to this new guidebook will be occurring during summer 2019. All the current page links \(task assignments, etc.\) within this new guidebook should remain the same as the revised content is added.
 {% endhint %}
 
 {% tabs %}
