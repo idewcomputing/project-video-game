@@ -30,9 +30,9 @@ Soon after, the first personal computers \(such as the [Apple II](https://en.wik
 {% endtab %}
 
 {% tab title="➤ PROCESS" %}
-In this project, students will collaborate in small teams to design, develop, and evaluate their own technology solutions to an authentic challenge. Teams will follow a user-centered design approach which focuses on understanding the goals, needs, expectations, and experiences of the people that will use their technology solution. Evaluation and testing of ideas and prototypes is integrated throughout the design and development process.
+In this project, students will collaborate in small teams to research, design, develop, and evaluate their own technology solution to an authentic challenge. Teams will follow a user-centered design approach which focuses on understanding the goals, needs, expectations, and experiences of the people that will use their technology solution. Evaluation and testing of ideas and prototypes should be integrated throughout the design and development process.
 
-This project is designed to follow the research-based [“Gold Standard” model of Project Based Learning \(PBL\)](https://www.pblworks.org/what-is-pbl) developed by the Buck Institute of Education.
+This project has been designed to follow the research-based [“Gold Standard” model of Project Based Learning \(PBL\)](https://www.pblworks.org/what-is-pbl) developed by the Buck Institute of Education.
 
 This project is intended to be completed throughout a semester-long high school CS course. Here are the estimated times required to complete each project phase:
 
@@ -41,11 +41,11 @@ This project is intended to be completed throughout a semester-long high school 
 | 1 Discover & Define Problem | 6-7 weeks |
 | 2 Design & Build Solution | 6-7 weeks |
 | 3 Evaluate & Refine Solution | 2 weeks |
-| 4 Share Project with Public | 1 weeks |
+| 4 Share Project with Public | 1 week |
 
 #### Assignment Templates
 
-Some of the project assignments include links to Google Drive templates \(document, spreadsheet, slide presentation, drawing, etc.\). All the templates are shared as "**View Only**." Students must create a **copy** of the template in order to modify it. \(Students should **not** request edit access, as the file is a master template for all students.\)
+Some of the project assignments include links to Google Drive templates \(such as: document, spreadsheet, drawing, etc.\). These templates are shared as "**View Only**." Students must create a **copy** of the template in order to modify it. \(Students should **not** request edit access, as the file is a master template for all students.\)
 
 {% hint style="info" %}
 **MAKE A COPY:**  To use a template, be sure you're logged in to your Google Account. From the template's **File** menu, select **Make a copy**. Save the copy to your shared team folder in Google Drive. You can now modify it.
@@ -53,11 +53,20 @@ Some of the project assignments include links to Google Drive templates \(docume
 {% endtab %}
 
 {% tab title="✓ OBJECTIVES" %}
-This project reflects authentic principles and practices currently used in the technology industry. This project emphasizes design thinking, computational thinking, project management, and 21st century success skills \(such as creative thinking, critical thinking, communication, and collaboration\).
+This project reflects authentic principles and practices currently used in the technology industry. At a high level, this project emphasizes:
+
+* Design Thinking
+* Computational Thinking
+* Project Management Skills
+* 21st Century Success Skills, especially the 4Cs:  Creative Thinking, Critical Thinking, Communication, and Collaboration
 {% endtab %}
 
 {% tab title="★ GOING FURTHER" %}
-It is recommended that each student also complete one or more [research reports](https://docs.idew.org/research-topics-in-computing/) in parallel to this project. These research reports should be shared with the class \(and beyond\).
+It is recommended that each student also complete one or more [research reports](https://docs.idew.org/research-topics-in-computing/) in parallel to this project. These research reports should be shared with the class \(and beyond\). These research reports should focus on topics in computing, such as:
+
+* Trends and Innovations in Computing
+* Privacy and Ethics in Computing
+* Degrees and Careers in Computing
 {% endtab %}
 {% endtabs %}
 
