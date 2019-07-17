@@ -2,6 +2,8 @@
 
 TK - in progress
 
+![](../../.gitbook/assets/video-game-phase1.png)
+
 This phase of the project will require about 6-7 weeks to complete. Your teacher will identify the specific deadline\(s\) for the task assignments.
 
 | Task | Estimated Time | ✓ | ✓+ |
