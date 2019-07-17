@@ -23,8 +23,8 @@ Soon after, the first personal computers \(such as the [Apple II](https://en.wik
 [Today, about 2.5 billion people across the world play video games](https://www.wepc.com/news/video-game-statistics/) — whether they play casual games or consider themselves serious gamers.
 
 * What is it about video games that people like so much?
-* What makes certain video games appeal to some people but not others?
-* How could you create a video game that people would want to play?
+* What makes certain video games appeal to some people but not to others?
+* How can you use a player-centered design process to create a game that people would want to play?
 
 ![](.gitbook/assets/game-heart.png)
 {% endtab %}
