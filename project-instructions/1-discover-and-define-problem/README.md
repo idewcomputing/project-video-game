@@ -1,10 +1,25 @@
 # 1 Discover & Define Problem
 
-TK - in progress
+Most technology products and services — such as websites, apps, devices, etc. — are designed as tools to to allow users to complete specific tasks. However, video games are a form of entertainment. Games are designed to be fun — i.e., to be engaging and enjoyable \(though some games are also designed for tasks such as learning, training, etc.\).
+
+You'll start this project phase by conducting research to discover more about game design:
+
+* What motivates people to play certain games?
+* How can you keep players engaged in gameplay?
+* What are the key design elements of games?
+* What are the technical possibilities and constraints of the tools you'll be using to code and create your own video game prototype?
+
+After completing your research, your project team will start to design its own video game by following a player-centered design process.
+
+Your design thinking will begin by determining the type of gameplay experience you want to create and the target players you're creating this game for. This defines the "problem" your team is trying to solve with your game design.
+
+Next, your team will begin to brainstorm and refine ideas for possible game concepts. Then you'll write several game treatments that summarize your top game concepts. You'll get feedback to select and refine one game concept for your team's project.
+
+At the end of this first project phase, your team will present its proposed video game concept. \(In the second phase of the project, you'll define your game's design in more detail and begin to prototype your game.\)
 
 ![](../../.gitbook/assets/video-game-phase1.png)
 
-This phase of the project will require about 6-7 weeks to complete. Your teacher will identify the specific deadline\(s\) for the task assignments.
+This first phase of the project will require about 6-7 weeks to complete. Your teacher will identify the specific deadline\(s\) for the task assignments.
 
 | Task | Estimated Time | ✓ | ✓+ |
 | :--- | :--- | :--- | :--- |
