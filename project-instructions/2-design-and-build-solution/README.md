@@ -10,7 +10,7 @@ This phase of the project will require about 6-7 weeks to complete. Your teacher
 | 2.2 Game Design Document | 5 | 3 |  |  |
 | 2.3 Paper Prototype | 3 | 2 |  |  |
 | 2.4 Playtest Paper Prototype | 3 | 2 |  |  |
-| 2.5 Game Code | 15-20 | 10-13 |  |  |
+| 2.5 Program Game | 15-20 | 10-13 |  |  |
 | 2.6 Game Assets | \(15-20\) | \(10-13\) |  |  |
 | 2.7 Internal Playtesting | \(15-20\) | \(10-13\) |  |  |
 | **2.8 Solution Presentation** | 3 | 2 |  |  |
