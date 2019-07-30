@@ -44,8 +44,8 @@ Each team will have 2-4 members. Everyone will be a **Game Designer**, contribut
 
 In addition, each team member will have at least one other specialized role:
 
-* **Programming Lead:** leads programming of game
-* **Art Lead:** leads creation of art and sound for game
+* **Programming Lead:** leads programming of game code
+* **Art Lead:** leads creation of art and sound assets for game
 * **Research Lead:** leads the playtesting and evaluation of game
 * **Project Manager:** manages team to ensure project completed successfully
 
