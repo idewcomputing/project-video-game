@@ -1,7 +1,5 @@
 # 3 Evaluate & Refine Solution
 
-TK - in progress
-
 This phase of the project will require about 2 weeks to complete. Your teacher will identify the specific deadline\(s\) for the task assignments.
 
 | Task | Non-Block Periods | Block Periods | ✓ | ✓+ |

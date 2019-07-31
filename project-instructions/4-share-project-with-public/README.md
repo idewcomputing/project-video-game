@@ -1,7 +1,5 @@
 # 4 Share Project with Public
 
-TK - in progress
-
 This phase of the project will require about 1 week to complete. Your teacher will identify the specific deadline\(s\) for the task assignments.
 
 | Task | Non-Block Periods | Block Periods | ✓ | ✓+ |

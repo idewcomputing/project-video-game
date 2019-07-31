@@ -35,7 +35,7 @@
 
 ## REFERENCES
 
-* [VG Code Guidebook](https://docs.idew.org/code-video-game/)
+* [Code Guidebook](https://docs.idew.org/code-video-game/)
 * [CxD Principles & Practices](https://docs.idew.org/principles-and-practices/)
 * [Research Topics in Computing](https://docs.idew.org/research-topics-in-computing/)
 
