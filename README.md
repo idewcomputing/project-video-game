@@ -2,8 +2,8 @@
 
 ## Project Introduction
 
-{% hint style="danger" %}
-**UPDATE IN PROGRESS:** This new project guidebook is a revised version of the [previous project guidebook](https://docs.idew.org/video-game/). Updates to this new project guidebook will be completed during summer 2019. Assignments still in progress are identified.
+{% hint style="success" %}
+**UPDATED FOR 2019-2020:** This is a revised version of the [previous guidebook](https://docs.idew.org/video-game/).
 {% endhint %}
 
 {% tabs %}
