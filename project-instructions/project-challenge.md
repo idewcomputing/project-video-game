@@ -8,7 +8,7 @@ The class will represent a video game company that is divided into project teams
 
 Each team must create a playable demo of a video game that is designed to appeal to players with certain gaming motivations.
 
-You'll use the [Phaser CE JavaScript game engine framework](https://photonstorm.github.io/phaser-ce/) to create browser-based, 2D video games. You'll use other online tools to create the game's art and sound \(such as animated character sprites, sound effects, etc.\).
+You'll use the [Phaser CE JavaScript game framework](https://photonstorm.github.io/phaser-ce/) to create browser-based, 2D video games. You'll use other online tools to create the game's art and sound \(such as animated character sprites, sound effects, etc.\).
 
 ![](../.gitbook/assets/phaser.jpg)
 {% endtab %}
