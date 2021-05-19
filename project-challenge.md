@@ -10,7 +10,7 @@ Each team must create a playable demo of a video game that is designed to appeal
 
 You'll use the [Phaser CE JavaScript game framework](https://photonstorm.github.io/phaser-ce/) to create browser-based, 2D video games. You'll use other online tools to create the game's art and sound \(such as animated character sprites, sound effects, etc.\).
 
-![](../.gitbook/assets/phaser.jpg)
+![](.gitbook/assets/phaser.jpg)
 {% endtab %}
 
 {% tab title="✓ DELIVERABLES" %}
