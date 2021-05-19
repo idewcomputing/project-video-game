@@ -1,4 +1,4 @@
-# 1 Discover & Define Problem
+# 1 DEFINE PROBLEM & VALUE PROPOSITION
 
 Most technology products and services — such as websites, apps, devices, etc. — are designed as tools to to allow users to complete specific tasks. However, video games are a form of entertainment. Games are designed to be fun — i.e., to be engaging and enjoyable \(though some games are also designed for tasks such as learning, training, etc.\).
 

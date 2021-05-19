@@ -1,4 +1,4 @@
-# 2 Design & Build Solution
+# 2 DESIGN & BUILD SOLUTION
 
 This phase of the project will require about 6-7 weeks to complete. Your teacher will identify the specific deadline\(s\) for the task assignments.
 
